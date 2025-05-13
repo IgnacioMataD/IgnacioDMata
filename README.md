@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @IgnacioDMata
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Java, Python and R
+- 👋 Hi, I’m @IgnacioDMata, full stack data professional with experience in banking and fintech.
+- 👀 I’m interested in Data Science, Data Analytics, Data Engineering and AI.
+- 🌱 I’m fluent in Python and SQL, and have experience with derived languages and tools.
 
 <!---
 IgnacioDMata/IgnacioDMata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
