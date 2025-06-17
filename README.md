@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IgnacioDMata, full stack data professional with experience in banking and fintech.
+- 👋 Hi, I’m @IgnacioMataD, full stack data professional with experience in banking and fintech.
 - 👀 I’m interested in Data Science, Data Analytics, Data Engineering and AI.
 - 🌱 I’m fluent in Python and SQL, and have experience with derived languages and tools.
 
